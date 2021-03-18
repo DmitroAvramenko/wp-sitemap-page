@@ -580,6 +580,8 @@ function wsp_wp_sitemap_page_func( $atts, $content=null ) {
 
 
 
+
+
 /**
  * Return list of pages
  * 
